@@ -1,5 +1,7 @@
-
-
+Used Web technologies: 
+- HTML, 
+- CSS, 
+- JavaScript.
 
 Matching Game
 
